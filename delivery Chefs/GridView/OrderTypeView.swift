@@ -21,7 +21,6 @@ struct OrderTypeView: View {
                 .font(.system(size: 10))
         }
         .frame(width: 70, height: 100)
-        //
     }
 }
 
