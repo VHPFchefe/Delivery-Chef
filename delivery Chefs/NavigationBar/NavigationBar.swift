@@ -18,7 +18,6 @@ struct NavigationBar: View {
                 }
                 .font(.subheadline)
                 .fontWeight(.semibold)
-                .foregroundColor(.black)
                 
                 Spacer()
                 
